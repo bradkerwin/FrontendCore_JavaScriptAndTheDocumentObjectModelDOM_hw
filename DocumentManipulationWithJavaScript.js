@@ -14,4 +14,4 @@ let products = [
         message.innerHTML = productDetails
     }
 
-    document.getElementById("view-catalog").addEventListener("click", displayCatalog());
+    document.getElementById("container").addEventListener("load", displayCatalog());
