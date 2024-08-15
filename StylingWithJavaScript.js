@@ -12,5 +12,5 @@ function hoverOver() {
 
 function hoverOut() {
     const container = document.getElementById("container");
-    container.style.color = "black";
+    container.style.color = "pink";
 }
